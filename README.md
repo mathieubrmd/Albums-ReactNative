@@ -19,6 +19,6 @@ I explored some functionnalities of React:
 
 # Some screenshots
 
-![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/albums_1.png)
+![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/album_1.png)
 ![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/albums_2.png)
 ![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/amazon.png)
