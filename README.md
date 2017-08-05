@@ -16,3 +16,9 @@ I explored some functionnalities of React:
 - The header of the card shows the artist's name and the album's name. 
 - The content of the card shows the album's image
 - The footer of the card shows a button that says "Buy Now!" which is in fact a link to the amazon store
+
+# Some screenshots
+
+![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/album_1.png)
+![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/album_2.png)
+![alt text](https://github.com/mathieubrmd/Albums-ReactNative/blob/master/app-screenshots/amazon.png)
