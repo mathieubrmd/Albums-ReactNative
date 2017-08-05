@@ -1,5 +1,5 @@
 # Albums
-It's my first application built with React Native.
+It's the first application I built with React Native.
 
 I explored some functionnalities of React:
 - Sharing props
